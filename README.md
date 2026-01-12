@@ -20,7 +20,7 @@
 </p>
 
 ## About Me:
-🎓Computer Science UG at Vellore Institute of Technology (VIT)<br>🌱 Currently focusing on: Cloud (AWS) • Web Development (Full-Stack) <br>🤝 I’m looking to collaborate on: Open-source cloud projects and full-stack web applications.<br>📫 How to reach me apoorva.singh0201@gmail.com
+🎓Computer Science UG at Vellore Institute of Technology (VIT)<br>🌱 Currently focusing on: Cloud (AWS) • Web Development (Full-Stack) • AI/ML  <br>🤝 I’m looking to collaborate on: Open-source cloud projects and full-stack web applications.<br>📫 How to reach me apoorva.singh0201@gmail.com
 
 
 ## 🌐 Socials:
